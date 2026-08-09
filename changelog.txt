@@ -1,3 +1,65 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: ????
+  Features:
+    - Add Advanced Logistics.
+    - Add All Map Radar.
+    - Add All Poles with Indicator Lights.
+    - Add Allow Identical Buildable.
+    - Add Always Daytime.
+    - Add Auto Link.
+    - Add Better Hypertubes.
+    - Add Build a Gap.
+    - Add Buildable Resource Nodes Redux.
+    - Add Cable Choices Plus.
+    - Add Chat Mk 2.
+    - Add Compact Power Tower.
+    - Add Content Inspector.
+    - Add Daisy Chain Everything.
+    - Add Digby Tool.
+    - Add Dimensional Depot Rate and Tools.
+    - Add Double Jump.
+    - Add Enhanced Depot.
+    - Add Factory Style.
+    - Add Faster Manual Crafting Redux.
+    - Add Fast Forward.
+    - Add Floor Hole Ceiling Logistics.
+    - Add Fluid Extras.
+    - Add Game Time.
+    - Add Hoverpack Fuse Reminder
+    - Add Hub Terminals.
+    - Add Infinite Dismantle.
+    - Add Infinite Nudge.
+    - Add Infinite Zoop.
+    - Add Inventory Hotkeys.
+    - Add Just Stackable Power Poles.
+    - Add Location and Rotation.
+    - Add Magic Machines.
+    - Add MAM Enhancer.
+    - Add Modeler Mod Recipes.
+    - Add Modular Load Balancers.
+    - Add More Hard Drive Rescans.
+    - Add More Sign Spots.
+    - Add More Splitter Lift Connections.
+    - Add Move Tool.
+    - Add No Build Animations.
+    - Add No Construct Disqualifiers.
+    - Add No Research Time.
+    - Add No Z Fighting.
+    - Add Object Deleter.
+    - Add Photo Mode Untethered.
+    - Add Power Tower Plus.
+    - Add Remote Factory.
+    - Add Rocket Runners.
+    - Add Settings Copier.
+    - Add Shallow Water Extractors.
+    - Add Shorter Hard Drive Research.
+    - Add Simple Conveyor Logistics.
+    - Add Small Awesome Sink.
+    - Add Small Downloader and Uploader.
+    - Add Soft Clearance for Everything.
+    - Add Splitter/Merger Pole Redux.
+    - Add This Sign Up.
+    - Add Unlimited Miners on Nodes
+    - Add Wall Conveyor Supports.
+    - Add Wall Pipe Supports.
