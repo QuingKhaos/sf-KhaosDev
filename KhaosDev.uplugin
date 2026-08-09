@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
-	"SemVersion": "1.0.1",
+	"VersionName": "1.0.2",
+	"SemVersion": "1.0.2",
 	"FriendlyName": "QuingKhaos' Development Suite",
 	"Description": "Personal collection of mods that I always use for mod development and testing.",
 	"Category": "Modding",
@@ -50,6 +50,11 @@
 			"Name": "AllMapRadar",
 			"Enabled": true,
 			"SemVersion": "^1.0.3"
+		},
+		{
+			"Name": "AlwaysDay",
+			"Enabled": true,
+			"SemVersion": "^1.0.2"
 		},
 		{
 			"Name": "AllPolesHaveLights",
