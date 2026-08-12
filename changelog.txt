@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: ????
+  Changes:
+    - Mark MAM Enhancer as optional, as it is currently broken with the CL502094 update.
+    - Mark Modular Load Balancers as optional, as it is currently broken with the CL502094 update.
+    - Mark Simple Conveyor Logistics as optional, as it is currently broken with the CL502094 update.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 2026-08-09
   Bugfixes:
