@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
-Date: ????
+Date: 2026-08-12
   Changes:
     - Mark MAM Enhancer as optional, as it is currently broken with the CL502094 update.
     - Mark Modular Load Balancers as optional, as it is currently broken with the CL502094 update.
